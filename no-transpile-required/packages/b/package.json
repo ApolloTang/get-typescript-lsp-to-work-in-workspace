@@ -1,0 +1,8 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "private": false,
+  "main": "src/index.ts",
+  "typings": "src/index.ts",
+  "license": "MIT"
+}
